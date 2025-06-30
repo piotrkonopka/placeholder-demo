@@ -1,4 +1,4 @@
-# login_demo
+# placeholder_demo
 
 A new Flutter project.
 

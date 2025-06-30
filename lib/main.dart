@@ -202,7 +202,7 @@ class _ConstructionPageState extends State<ConstructionPage> with TickerProvider
                   FadeTransition(
                     opacity: _fadeAnimation,
                     child: const Text(
-                      'Postęp: 60%',
+                      'Postęp: 50%',
                       style: TextStyle(
                         fontSize: 16,
                         color: Colors.orange,
