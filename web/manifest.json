@@ -1,6 +1,6 @@
 {
-    "name": "login_demo",
-    "short_name": "login_demo",
+    "name": "placeholder_demo",
+    "short_name": "placeholder_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
